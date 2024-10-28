@@ -75,7 +75,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css" width="55" height="55"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="js" width="55" height="55"/></a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="55" height="55"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="55" height="55"/></a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="55" height="55"/></a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="55" height="55"/></a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="55" height="55"/></a>
